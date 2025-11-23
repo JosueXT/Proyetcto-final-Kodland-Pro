@@ -30,7 +30,7 @@ Para crear el bot y obtener el token (gratis en el portal de devs).
 
 ### Cómo Instalarlo
 
-**Clona el repo:** https://github.com/Josuegitgub/Proyetcto-final-Kodland-Pro.git
+**Clona el repo:** https://github.com/JosueXT/Proyetcto-final-Kodland-Pro.git
 
 **Instala lo necesario:** ```pip install discord.py```
 Pon tu token de Discord en el código (sácalo del portal de devs de Discord).
